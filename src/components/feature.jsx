@@ -3,7 +3,7 @@ import React from "react";
 const Feature = () => {
     return (
 
-<div class="py-24 bg-black">
+<div class="py-24 bg-black h-screen flex">
 <hr className="border-2 border-green-400 mb-16 md:mb-24 w-1/2 mx-auto"/>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="lg:text-center">
