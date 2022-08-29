@@ -3,11 +3,11 @@ import React from "react";
 const Feature = () => {
     return (
 
-<div class="py-24 bg-black h-screen flex">
+<div class="py-24 bg-black h-screen text-center mx-auto">
 <hr className="border-2 border-green-400 mb-16 md:mb-24 w-1/2 mx-auto"/>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="lg:text-center">
-      <h2 class="text-green-500 font-semibold tracking-wide uppercase text-2xl md:text-3xl lg:text-4xl text-left md:text-center">Technologies</h2>
+      <h2 class="text-green-500 font-semibold tracking-wide uppercase text-2xl md:text-3xl lg:text-4xl">Technologies</h2>
       <p class="mt-4 max-w-2xl text-xl text-green-300 lg:mx-auto">I work with the latest technologies. From Back-end to design.</p>
     </div>
 
